@@ -22,11 +22,11 @@
 
  * Nome1: Alessandro
  * Cognome1: Neri
- * Numero di matricola1: 0001087314
+ * Numero di matricola1: ***
 
- * Nome2: Massimiliano
- * Cognome2: Prandi
- * Numero di matricola2: 0001116346
+ * Nome2: ***
+ * Cognome2: ***
+ * Numero di matricola2: ***
 
 *)
 
